@@ -1,0 +1,3 @@
+Şifreleme işlemi için AES algoritması kullanıldı. AES algoritması https://www.cryptopp.com/
+adresinde indirildi. Proje Ubuntu üzerinde gerçekleştirildi. Adresteki kütüphaneler
+indirildikten sonra make ile derleme işlemi gerçekleştirildi.
